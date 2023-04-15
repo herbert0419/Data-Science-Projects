@@ -2,6 +2,6 @@ pandas
 numpy
 tensorflow==2.10
 scikit-learn
-opencv-python==4.5.5.64\
+opencv-python==4.5.5.64
 
--e .
+# -e .
