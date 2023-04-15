@@ -1,3 +1,0 @@
-upgrade pip --- python -m pip install --upgrade pip
-install ipynbkernel --- pip install ipykernel
-create user --- python -m ipykernel install --user --name=shobhan

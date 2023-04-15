@@ -1,0 +1,11 @@
+open cmd prompt & enter the following commands after you have crrated your conda/venv environment
+
+upgrade pip --- python -m pip install --upgrade pip
+install ipynbkernel --- pip install ipykernel
+create user --- python -m ipykernel install --user --name=shobhamn
+open notebook --- python -m notebook / jupyter notebook
+
+
+Activate Conda Env:
+1. C:/Users/Shobhandeb/anaconda3/Scripts/activate
+2. conda activate d:\Data-Science-Projects\.conda
